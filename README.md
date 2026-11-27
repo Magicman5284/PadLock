@@ -10,6 +10,9 @@ BOM:
 |Estimated total shipping|1  |          |         |$0.00     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 
+!!UPDATE!!
+I have added the file "ALL_IN_ONE", this is a python script that will generate an STL including all parts you need for a given key code. If this is used, the key generation instructions below can be disregarded. I highly recommend using this script. 
+
 Key generation: 
 This project comes with a python script that can generate a key from a 5 digit key code, using only digits from 1-7, which gives almost 17,000 distinct keys. 
 Download the python script and the key blank STL and make sure they are in the same folder and that that folder can be accessed from command prompt. 
